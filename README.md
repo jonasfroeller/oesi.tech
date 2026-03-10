@@ -41,3 +41,52 @@ Innovation ausm Ösilond
 | 23   | Mostly AI       | Vienna     | Data/AI           |                  | Synthetic data generation platform                 | mostly.ai          |
 | 24   | Pimcore         | Salzburg   | Data Platform     |                  | Open-source data & experience management           | pimcore.com        |
 | 25   | Robo Wunderkind | Vienna     | Robotics/EdTech   |                  | Modular robotics kits for kids                     | robowunderkind.com |
+
+## Marie-Macha (Gödgewa, Engal, Knödl Geba)
+
+| Rank              | Investor / VC | HQ     | Focus                   | Notable Portfolio                     | Website          |
+| ----------------- | ------------- | ------ | ----------------------- | ------------------------------------- | ---------------- |
+| 1                 | Speedinvest   | Vienna | Early-Stage (Pan-EU)    | Bitpanda, GoStudent, Tier, WeFox      | speedinvest.com  |
+| 2                 | Hansmen Group | Vienna | Business Angels         | Runtastic, Durchblicker, Tractive     | hansmengroup.com |
+| 3                 | eQventure     | Graz   | B2B Software & Hardware | USound, Anyline, Storyblok            | eqventure.com    |
+| 4                 | FFG           | Vienna | Research & Innovation   | (Forschungsförderungsgesellschaft)    | ffg.at           |
+| 5                 | Push Ventures | Vienna | Early-Stage / Health    | MySugr, XUND, Preisjaeger             | push.ventures    |
+| honorable mention | AWS           | Vienna | State Funding & Grants  | (Förderbank des Bundes für fast alle) | aws.at           |
+
+## De Großkopferten
+
+| Company     | Roots  | Sector              | Status                | Description                        |
+| ----------- | ------ | ------------------- | --------------------- | ---------------------------------- |
+| Dynatrace   | Linz   | Cloud Observability | Public (NYSE)         | Software intelligence & monitoring |
+| Tricentis   | Vienna | Software Testing    | Scale-up / Unicorn    | Automated enterprise testing       |
+| Shpock      | Vienna | E-Commerce          | Exited (to Schibsted) | Mobile classifieds & flea market   |
+| Kapsch      | Vienna | Traffic Telematics  | Corporate Giant       | Electronic toll collection & ITS   |
+| paysafecard | Vienna | Fintech / Payments  | Exited (to Skrill)    | Prepaid online payment methods     |
+
+## Tech-Festln
+
+| Event / Hub     | Location | Type           | Description                                  | Website             |
+| --------------- | -------- | -------------- | -------------------------------------------- | ------------------- |
+| WeAreDevelopers | Vienna   | Conference     | World's leading congress for developers      | wearedevelopers.com |
+| ViennaUP        | Vienna   | Festival       | Decentralized startup & tech festival        | viennaup.com        |
+| Fifteen Seconds | Graz     | Festival       | Business, innovation & creativity festival   | fifteenseconds.co   |
+| weXelerate      | Vienna   | Innovation Hub | Massive innovation ecosystem & startup space | wexelerate.com      |
+| Talent Garden   | Vienna   | Coworking Hub  | Tech-focused coworking & networking space    | talentgarden.org    |
+
+## Gscheidhaferln
+
+| Institution / Lab | Location       | Specialization          | Notable Output / Focus                      |
+| ----------------- | -------------- | ----------------------- | ------------------------------------------- |
+| JKU Linz (LIT)    | Linz           | Artificial Intelligence | Home of Sepp Hochreiter (LSTM, xLSTM)       |
+| ISTA              | Klosterneuburg | Deep Tech & Science     | Institute of Science and Technology Austria |
+| TU Wien           | Vienna         | Computer Science        | Major talent pool for Viennese startups     |
+| TU Graz           | Graz           | Engineering / IT        | Major talent pool for automotive & HW tech  |
+
+## Zockerei
+
+| Studio / Publisher | Location  | Focus     | Famous Titles / Notes                            |
+| ------------------ | --------- | --------- | ------------------------------------------------ |
+| THQ Nordic         | Vienna    | Publisher | Darksiders, Gothic, Wreckfest (Embracer)         |
+| Moon Studios       | Vienna    | Game Dev  | Ori and the Blind Forest, No Rest for the Wicked |
+| Mi'pu'mi Games     | Vienna    | Game Dev  | The Lion's Song, Howl                            |
+| stillalive studios | Innsbruck | Game Dev  | Drone Swarm, Bus Simulator                       |
