@@ -14,30 +14,30 @@ Innovation ausm Ösilond
 
 ## Startups
 
-| Rank | Company         | Sector            | Valuation/Note   | Description                                | Website            |
-| ---- | --------------- | ----------------- | ---------------- | ------------------------------------------ | ------------------ |
-| 1    | Bitpanda        | Fintech           | ~$4.1B (Unicorn) | Digital assets investment platform         | bitpanda.com       |
-| 2    | GoStudent       | EdTech            | ~$3.5B (Unicorn) | Online tutoring & learning platform        | gostudent.org      |
-| 3    | TTTech Auto     | Automotive Tech   | $1B+ (Unicorn)   | Safety software for autonomous driving     | tttech-auto.com    |
-| 4    | Refurbed        | Marketplace       |                  | Refurbished electronics marketplace        | refurbed.at        |
-| 5    | Storyblok       | SaaS/CMS          |                  | Headless content management system         | storyblok.com      |
-| 6    | Tractive        | IoT/Pet Tech      |                  | GPS tracker for pets                       | tractive.com       |
-| 7    | Adverity        | MarTech           |                  | Marketing data & analytics platform        | adverity.com       |
-| 8    | Nuki            | Smart Home        |                  | Smart lock & access solutions              | nuki.io            |
-| 9    | PlanRadar       | Construction SaaS |                  | Digital documentation for construction     | planradar.com      |
-| 10   | Bitmovin        | Video Streaming   |                  | Video infrastructure & encoding technology | bitmovin.com       |
-| 11   | Prewave         | Supply Chain AI   |                  | AI-powered supply chain risk monitoring    | prewave.com        |
-| 12   | blackshark.ai   | Geospatial AI     |                  | AI-generated 3D digital twin of Earth      | blackshark.ai      |
-| 13   | Anyline         | Mobile OCR        |                  | Mobile scanning & OCR SDK                  | anyline.com        |
-| 14   | TourRadar       | Travel            |                  | Multi-day tour booking marketplace         | tourradar.com      |
-| 15   | USound          | Audio Hardware    |                  | MEMS-based micro-speaker technology        | usound.com         |
-| 16   | LimeWire        | Web3              |                  | AI-powered content creation platform       | limewire.com       |
-| 17   | Eversports      | Sports            |                  | Sports & fitness booking platform          | eversports.com     |
-| 18   | mySugr          | Health Tech       | Roche Exit       | Diabetes management app                    | mysugr.com         |
-| 19   | enspired        | Energy            |                  | AI-driven energy trading platform          | enspired.energy    |
-| 20   | ToolSense       | IoT               |                  | IoT equipment management platform          | toolsense.io       |
-| 21   | Runtastic       | Fitness           | Adidas Exit      | Running & fitness tracking app             | runtastic.com      |
-| 22   | XUND            | Health AI         |                  | AI-powered medical symptom assessment      | xund.ai            |
-| 23   | Mostly AI       | Data/AI           |                  | Synthetic data generation platform         | mostly.ai          |
-| 24   | Pimcore         | Data Platform     |                  | Open-source data & experience management   | pimcore.com        |
-| 25   | Robo Wunderkind | Robotics/EdTech   |                  | Modular robotics kits for kids             | robowunderkind.com |
+| Rank | Company         | HQ         | Sector            | Valuation/Note   | Description                                        | Website            |
+| ---- | --------------- | ---------- | ----------------- | ---------------- | -------------------------------------------------- | ------------------ |
+| 1    | Bitpanda        | Vienna     | Fintech           | ~$4.1B (Unicorn) | Digital assets investment platform                 | bitpanda.com       |
+| 2    | GoStudent       | Vienna     | EdTech            | ~$3.5B (Unicorn) | Online tutoring & learning platform                | gostudent.org      |
+| 3    | TTTech Auto     | Vienna     | Automotive Tech   | $1B+ (Unicorn)   | Safety software for autonomous driving             | tttech-auto.com    |
+| 4    | Refurbed        | Vienna     | Marketplace       |                  | Refurbished electronics marketplace                | refurbed.at        |
+| 5    | Storyblok       | Linz       | SaaS/CMS          |                  | Headless content management system                 | storyblok.com      |
+| 6    | Tractive        | Linz       | IoT/Pet Tech      |                  | GPS tracker for pets                               | tractive.com       |
+| 7    | Adverity        | Vienna     | MarTech           |                  | Marketing data & analytics platform                | adverity.com       |
+| 8    | Nuki            | Graz       | Smart Home        |                  | Smart lock & access solutions                      | nuki.io            |
+| 9    | PlanRadar       | Vienna     | Construction SaaS |                  | Digital documentation for construction             | planradar.com      |
+| 10   | Bitmovin        | Klagenfurt | Video Streaming   |                  | Video infrastructure (Uni Klagenfurt spin-off)     | bitmovin.com       |
+| 11   | Prewave         | Vienna     | Supply Chain AI   |                  | AI-powered supply chain risk monitoring            | prewave.com        |
+| 12   | blackshark.ai   | Graz       | Geospatial AI     |                  | AI-generated 3D digital twin of Earth              | blackshark.ai      |
+| 13   | Anyline         | Vienna     | Mobile OCR        |                  | Mobile scanning & OCR SDK                          | anyline.com        |
+| 14   | TourRadar       | Vienna     | Travel            |                  | Multi-day tour booking marketplace                 | tourradar.com      |
+| 15   | USound          | Graz       | Audio Hardware    |                  | MEMS-based micro-speaker technology                | usound.com         |
+| 16   | LimeWire        | Vienna     | Web3              |                  | AI content platform (brand revival by AT founders) | limewire.com       |
+| 17   | Eversports      | Vienna     | Sports            |                  | Sports & fitness booking platform                  | eversports.com     |
+| 18   | mySugr          | Vienna     | Health Tech       | Roche Exit       | Diabetes management app                            | mysugr.com         |
+| 19   | enspired        | Vienna     | Energy            |                  | AI-driven energy trading platform                  | enspired.energy    |
+| 20   | ToolSense       | Vienna     | IoT               |                  | IoT equipment management platform                  | toolsense.io       |
+| 21   | Runtastic       | Linz       | Fitness           | Adidas Exit      | Running & fitness tracking app                     | runtastic.com      |
+| 22   | XUND            | Vienna     | Health AI         |                  | AI-powered medical symptom assessment              | xund.ai            |
+| 23   | Mostly AI       | Vienna     | Data/AI           |                  | Synthetic data generation platform                 | mostly.ai          |
+| 24   | Pimcore         | Salzburg   | Data Platform     |                  | Open-source data & experience management           | pimcore.com        |
+| 25   | Robo Wunderkind | Vienna     | Robotics/EdTech   |                  | Modular robotics kits for kids                     | robowunderkind.com |
