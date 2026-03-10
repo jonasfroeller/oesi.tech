@@ -12,7 +12,7 @@ Innovation ausm Ösilond
 | 4    | n.eko          | m1k1o             | 19.2k | Go         | Self-hosted virtual browser (Docker) | m1k1o/neko             |
 | 5    | dropzone       | enyo              | 18.4k | JavaScript | Drag & drop file upload library      | enyo/dropzone          |
 
-## Startups
+## Sdadaps
 
 | Rank | Company         | HQ         | Sector            | Valuation/Note   | Description                                        | Website            |
 | ---- | --------------- | ---------- | ----------------- | ---------------- | -------------------------------------------------- | ------------------ |
